@@ -1,7 +1,7 @@
 name: Frigate Proxy
 version: "1.5"
 panel_icon: "mdi:cctv"
-panel_title: Frigate
+panel_title: Frigate2
 slug: frigate-proxy
 description: Proxy addon for Frigate
 url: "https://github.com/blakeblackshear/frigate"
